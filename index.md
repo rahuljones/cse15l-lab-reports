@@ -2,12 +2,12 @@
 
 **Step 1: Reset your password**
 
-Go to [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)and login with your Active Directory id. Note down what the three letters at the end of your course access code are. Click change your password and follow the instructions.
+Go to [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) and login with your Active Directory id. Note down what the three letters at the end of your course access code are. Click change your password and follow the instructions.
 Make sure to click the button to not change all of your passwords if you want to keep your same password for other UCSD applications.
 
 **Step 2: Download VSCode**
 
-I already had VSCode downloaded because of prior programming. Go to [code.visualstudio.com/,code.visualstudio.com/](code.visualstudio.com/,code.visualstudio.com/) to download the IDE. It should
+I already had VSCode downloaded because of prior programming. Go to [code.visualstudio.com/code.visualstudio.com/(code.visualstudio.com/,code.visualstudio.com/) to download the IDE. It should
 look like this after:
 ![Image](Screen%20Shot%202023-01-12%20at%204.44.27%20PM.png)
 
