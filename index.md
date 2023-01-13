@@ -6,5 +6,5 @@ Make sure to click the button to not change all of your passwords if you want to
 
 Step 2: Download VSCode
 I already had VSCode downloaded because of prior programming. Go to code.visualstudio.com/,code.visualstudio.com/ to download the IDE.
-
+![Image](https://github.com/rahuljones/cse15l-lab-reports/blob/main/Screen%20Shot%202023-01-12%20at%204.44.27%20PM.png)
 Step 3: 
