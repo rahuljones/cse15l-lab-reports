@@ -7,7 +7,7 @@ Make sure to click the button to not change all of your passwords if you want to
 
 **Step 2: Download VSCode**
 
-I already had VSCode downloaded because of prior programming. Go to [code.visualstudio.com/code.visualstudio.com/(code.visualstudio.com/,code.visualstudio.com/) to download the IDE. It should
+I already had VSCode downloaded because of prior programming. Go to [code.visualstudio.com/code.visualstudio.com](code.visualstudio.com/,code.visualstudio.com/) to download the IDE. It should
 look like this after:
 ![Image](Screen%20Shot%202023-01-12%20at%204.44.27%20PM.png)
 
