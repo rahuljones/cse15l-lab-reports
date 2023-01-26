@@ -25,4 +25,4 @@ Try commands such as:
 * `cd ..`: to try going back to the parent directory
 
 Press exit to disconnect from the server when you are done.
-![Image](Screen%20Shot%202023-01-12%20at%205.00.19%20PM.png)
+![Image](Screen%20Shot%202023-01-26%20at%202.00.53%20PM.png)
