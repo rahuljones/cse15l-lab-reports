@@ -13,11 +13,16 @@ It should look like this after:
 
 **Step 3: Connecting to the server**
 
-Create a new terminal in VSCode by clicking "Terminal" in the task bar and clicking "New Terminal". Next type in ssh cs15lwi23XX@ieng6.ucsd.edu where XX represents the three letters at the end of the access code from
+Create a new terminal in VSCode by clicking "Terminal" in the task bar and clicking "New Terminal". Next type in `ssh cs15lwi23XX@ieng6.ucsd.edu` where XX represents the three letters at the end of the access code from
 the website from step 1. Then a prompt should come up where you can answer yes. It will then prompt you to ask for your password. Type in the new password that you set and then the terminal window should look something like this:
-![Image](Screen%20Shot%202023-01-12%20at%204.46.07%20PM.png)
-    jj
+![Image](Screen%20Shot%202023-01-26%20at%201.50.16%20PM.png)
+
 **Step 4: Try out commands on the terminal**
 
-Try commands such as "ls" to see what files/folders are on the path. You can also try using "cd" and the file name to go to that file. You may also try going back to the parent directory by typing in "cd ..". Press exit to disconnect from the server when you are done.
+Try commands such as:
+* `ls`: see what files/folders are on the path
+* `cd`: follow this command with the file name to view the file
+* `cd ..`: to try going back to the parent directory
+
+Press exit to disconnect from the server when you are done.
 ![Image](Screen%20Shot%202023-01-12%20at%205.00.19%20PM.png)
